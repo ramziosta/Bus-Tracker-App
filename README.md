@@ -1,4 +1,4 @@
-# Buss-Tracker-App
+# Bus-Tracker-App
 MIT Project utilizing Maps and Web APIs.
 
 
