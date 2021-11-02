@@ -1,2 +1,3 @@
 # Buss-Tracker-App
-MIT Project.
+MIT Project utilizing Maps and Web APIs.
+
