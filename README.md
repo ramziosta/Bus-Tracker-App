@@ -2,7 +2,7 @@
 MIT Project utilizing Maps and Web APIs.
 
 
-<p>This code provides real time information for four Boston bus lines. This code originate from an assignment in Week #8 of MIT's MERN Coding Bootcamp. The challenge was to animate and add features to a map view of a Boston bus route.</p>
+<p>This code provides information for MBTA bus data to determine stops between Harvard and MIT. This code originate from an assignment in Week #8 of MIT's MERN Coding Bootcamp. The challenge was to animate and add features to a map view of a Boston bus route. Then, you need to and add an animated marker on the map to highlight the bus routes.</p>
 <h3>API Links</h3>
 <ul>
   <li> <a href="https://api-v3.mbta.com/">Massachusetts Bay Transportation Authority (MBTA)</a></li>
