@@ -195,4 +195,4 @@ function move() {
       move();
     }, 1000)
 }
-setTimeout(move(),1000);
+//setTimeout(move(),1000);
